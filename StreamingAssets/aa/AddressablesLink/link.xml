@@ -84,6 +84,5 @@
   </assembly>
   <assembly fullname="ZBase.UnityScreenNavigator">
     <type fullname="ZBase.UnityScreenNavigator.Core.Modals.ModalTransitionAnimationContainer" preserve="nothing" serialized="true" />
-    <type fullname="ZBase.UnityScreenNavigator.Core.Screens.ScreenTransitionAnimationContainer" preserve="nothing" serialized="true" />
   </assembly>
 </linker>
